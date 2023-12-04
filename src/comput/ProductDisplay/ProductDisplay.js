@@ -32,8 +32,9 @@ const ProductDisplay =(props) =>{
                     <div className='prodeuctDisplay-right-price-new'>
                         ${product.new_price}
                     </div>
+                    </div>
                     <div className='prodeuctDisplay-right-description'>
-                    Oversized Internet is Broken Hoodie: Elevate your street style with our Olive Green Internet is Broken Printed Oversized Hoodie for men.
+                    Oversized Internet is Broken Hoodie: Elevate your street style with our Olive Green Internet is Broken Printed Oversized Hoodie for men.Oversized Internet is Broken Hoodie: Elevate your street style with our Olive Green Internet is Broken Printed Oversized Hoodie for men.
                     </div>
                     <div className='prodectDisplay-right-size'>
                         <h1>Select Size</h1>
@@ -50,7 +51,7 @@ const ProductDisplay =(props) =>{
                     <p className='pardectDisplay-right-category'><span>Tags : </span>Modern , Latest</p>
                 </div>
             </div>
-        </div>
+       
     )
 }
 export default ProductDisplay;

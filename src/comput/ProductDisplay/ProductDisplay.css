@@ -15,6 +15,10 @@
     height: 170px;
     scale: 0.8;
 }
+.prodeuctDisplay-right-description{
+    font-size: 18px;
+    font-family: Poppins;
+}
 .ProductDisplay-img-list img:hover{
     scale: 0.9;
 }
@@ -23,7 +27,7 @@
 }
 .ProductDisplay-mani-img{
     width: 590px;
-    height: 720px;
+    height: 700px;
 }
 .ProductDisplay-right{
     display: flex;
@@ -45,7 +49,7 @@
     font-size: 16px;
 }
 .ProductDisplay-right-priges{
-    
+    display: flex;
     margin: 40px 0px;
     gap: 30px;
     font-size: 24px;
