@@ -33,11 +33,11 @@ const ProductDisplay =(props) =>{
                         ${product.new_price}
                     </div>
                     <div className='prodeuctDisplay-right-description'>
-                    Oversized Internet is Broken Hoodie: Elevate your street style with our Olive Green Internet is Broken Printed Oversized Hoodie for men, featuring a trendy design, oversized fit and a convenient kangaroo pocket. Crafted from a cozy Cotton Fleece Bles nd, it's comfort and fashion rolled into one.
+                    Oversized Internet is Broken Hoodie: Elevate your street style with our Olive Green Internet is Broken Printed Oversized Hoodie for men.
                     </div>
                     <div className='prodectDisplay-right-size'>
                         <h1>Select Size</h1>
-                        <div className='prodectDisplay-right-size'>
+                        <div className='prodectDisplay-right-sizes'>
                             <div>S</div>
                             <div>L</div>
                             <div>X</div>
@@ -46,8 +46,8 @@ const ProductDisplay =(props) =>{
                         </div>
                     </div>
                     <button>ADD To CART</button>
-                    <p className='pardectDisplay-right-category'><span>category:</span>Women , T-Shirt , Crop Top</p>
-                    <p className='pardectDisplay-right-category'><span>Tags:</span>Modern , Latest</p>
+                    <p className='pardectDisplay-right-category'><span>category : </span>Women , T-Shirt , Crop Top</p>
+                    <p className='pardectDisplay-right-category'><span>Tags : </span>Modern , Latest</p>
                 </div>
             </div>
         </div>
